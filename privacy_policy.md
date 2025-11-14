@@ -139,7 +139,7 @@ The files selected by the user for public posting (as described in Section 5.1) 
 
 ---
 
-6.      How we use information
+## 6. How we use information
 We do not use your data for advertising or marketing
 targeting and we do not sell your personal information.
 We use the data described above only for the following
@@ -148,9 +148,7 @@ purposes:
 public posts platform.
 – To moderate public content through the admin panel.
 – To maintain the security and stability of our backend infrastructure.
-– **To diagnose and fix technical errors and maintain reliable performance.**
-
-***
+– To diagnose and fix technical errors and maintain reliable performance
 
 **Limited Diagnostic Data and Technical Metadata**
 
